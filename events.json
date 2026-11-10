@@ -1,0 +1,17 @@
+[
+  {
+    "name": "freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "description": "Open-source curriculum and projects for learning to code."
+  },
+  {
+    "name": "The Odin Project",
+    "url": "https://github.com/TheOdinProject/curriculum",
+    "description": "An open-source curriculum for learning web development."
+  },
+  {
+    "name": "public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "description": "A collective list of free APIs for development."
+  }
+]
